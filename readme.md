@@ -1,6 +1,6 @@
 # MindMaze Challenge - Guess Number Game
 
-![Guess image](image/guess.png)
+![guess](https://github.com/Nitesh1255/MindMaze-Challenge-/assets/119393883/2e307587-f89c-451e-8036-7ba677489078)
 
 Welcome to MindMaze Challenge, a simple web-based game where you can test your guessing skills! Try and guess a random number between 1 and 100 with only 10 attempts.
 
